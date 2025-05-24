@@ -1,0 +1,23 @@
+.image-body {
+    width: 95vw;
+    height: 100%;
+    margin: 0 auto;
+    padding: 2rem 0;
+    position: relative;
+}
+.display-image{
+    object-fit: cover;
+    height: 120vh;
+    width: 100%;
+    border-radius: 2rem;
+    border: 1px solid #000;
+}
+
+.image-text {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 5rem;
+    text-transform: uppercase;
+    color: white;
+ }

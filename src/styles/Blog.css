@@ -1,0 +1,5 @@
+.header-blog {
+    height: 20vh;
+    width: 100vw;
+    background: var(--primary-color);
+}
